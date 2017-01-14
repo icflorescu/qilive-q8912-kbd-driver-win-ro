@@ -1,6 +1,10 @@
 ## Despre ce e vorba?
 
-Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diactritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth), distribuită prin lanțul de magazine Auchan. Îl poți descărca de [aici](https://github.com/icflorescu/qilive-q8912-kbd-driver-win-ro/releases/download/1.0.0/q8912ro.zip), iar dacă ai nevoie de instrucțiuni de instalare, le găsești [mai jos](#cum-instalez).
+Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diactritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth), distribuită prin lanțul de magazine Auchan.
+
+[![Descarcă driver-ul](https://cloud.githubusercontent.com/assets/581999/21958218/e7a476ce-dab1-11e6-9ab8-c2b75dc99d23.png)](https://github.com/icflorescu/qilive-q8912-kbd-driver-win-ro/releases/download/1.0.0/q8912ro.zip)
+
+Îl poți descărca apăsând pe butonul de mai sus, iar dacă ai nevoie de instrucțiuni de instalare, le găsești [mai jos](#cum-instalez).
 
 ![Tastatură Bluetooth Q.8912 de la Qilive - foto 1](https://cloud.githubusercontent.com/assets/581999/21957827/7a028862-daa8-11e6-8102-705b6fa59dce.jpg)
 
