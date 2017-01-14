@@ -1,6 +1,6 @@
 ## Despre ce e vorba?
 
-Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diactritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth) vândută în magazinele Auchan.
+Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diacritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth) vândută în magazinele Auchan.
 
 [![Descarcă driver-ul](https://cloud.githubusercontent.com/assets/581999/21958218/e7a476ce-dab1-11e6-9ab8-c2b75dc99d23.png)](https://github.com/icflorescu/qilive-q8912-kbd-driver-win-ro/releases/download/1.0.0/q8912ro.zip)
 
