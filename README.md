@@ -44,6 +44,13 @@ Dă un restart. La urma urmei, e vorba despre Windows.
 
 Gata.
 
+## *Bonus*-uri
+
+Pentru a îmbunătăți funcționalitatea, am adăugat coduri pentru următoarele caractere:
+
+- `AltGr` + `E` => `€`, `euro sign`, pentru că România este o țară europeană și folosim destul de mult moneda unică;
+- `AltGr` + `-` => `—`, `em dash`, pentru că poate fi folosit ca linie de dialog (mai multe informații găsiți în [acest document](http://www.secarica.ro/std/InstitLingvTastatura-20031008.pdf) din arhiva Academiei Române).
+
 ## Alte posibile scenarii de utilizare
 
 ### Linux
