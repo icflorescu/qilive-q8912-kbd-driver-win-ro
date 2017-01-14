@@ -2,7 +2,7 @@
 
 **Work in progress...**
 
-Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diactritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth), distribuită prin lanțul de magazine Auchan.
+Acesta este un driver Windows pentru [tastatura Bluetooth Q.8912 cu diactritice de la Qilive](http://www.qilive.com/ro/produit/tastatura-compacta-bluetooth), distribuită prin lanțul de magazine Auchan. Îl poți descărca de [aici](https://github.com/icflorescu/qilive-q8912-kbd-driver-win-ro/releases/download/1.0.0/q8912ro.zip), iar dacă ai nevoie de instrucțiuni de instalare, le găsești [mai jos](#cum-instalez).
 
 ## De ce?
 
@@ -20,7 +20,7 @@ Există însă o problemă majoră: **în Windows există trei layout-uri de tas
 
 Un driver poate fi construit folosind un vechi utilitar de la Microsoft, [Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339), însă acest lucru nu este la îndemâna unui utilizator normal, și realitatea este că, fiind vorba despre un produs comercial, **ar fi trebuit să o facă producătorul, nu clienții**.
 
-Nu-i nimic, l-am făcut eu. L-am testat pe Windows 10, dar ar trebui să funcționeze fără probleme și pe Vista sau 2000 (nu sunt foarte sigur despre XP, dar oricum ar fi bine să nu-l mai folosești). Citește în continuare pentru a vedea cum îl poți instala.
+Nu-i nimic, l-am făcut eu. L-am testat pe Windows 10, dar ar trebui să funcționeze fără probleme și pe Vista sau 2000 (nu sunt foarte sigur despre XP, dar oricum ar fi bine să nu-l mai folosești). Îl poți descărca de [aici](https://github.com/icflorescu/qilive-q8912-kbd-driver-win-ro/releases/download/1.0.0/q8912ro.zip), iar în continuare găseși câteva instrucțiuni simple de instalare.
 
 ## Cum instalez?
 
