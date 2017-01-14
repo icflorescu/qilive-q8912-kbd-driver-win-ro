@@ -28,7 +28,7 @@ Nu-i nimic, l-am făcut eu. L-am testat pe Windows 10, dar ar trebui să funcți
 
 ### Pasul 0
 
-Dacă nu ai făcut-o deja, împerechează tastatura prin Bluetooth conform manualului de utilizare de la producător ( :-P ).
+Dacă nu ai făcut-o deja, împerechează tastatura prin Bluetooth conform manualului de utilizare de la producător. :no_mouth:
 
 ### Pasul 1
 
@@ -63,7 +63,7 @@ Bineînțeles că poți lega tastatura Q.8912 la orice tabletă cu Android care 
 
 ## Disclaimer
 
-Nu am nici o relație comercială cu Qilive sau Auchan. Distribui gratuit acest driver pentru că producătorul nu a făcut-o și continuă să-și înșele clienții vânzând produsul sub eticheta mincinoasă de "Română tastatură".
+Nu am nici o relație comercială cu Qilive sau Auchan. Distribui gratuit acest driver pentru că producătorul nu a făcut-o și continuă să-și înșele clienții vânzând produsul sub eticheta mincinoasă de "Română tastatură". :astonished:
 
 ## Sprijină autorul
 
