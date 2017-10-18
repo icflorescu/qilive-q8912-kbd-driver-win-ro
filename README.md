@@ -52,9 +52,9 @@ Confirmă că vrei să instalezi programul.
 
 ![Instalare driver pentru tastatură Bluetooth Q.8912 de la Qilive - pasul 1.3](https://cloud.githubusercontent.com/assets/581999/21957830/7a07ad42-daa8-11e6-8f33-759cff85e6b7.jpg)
 
-### Pasul 2
+### Pasul 2 (opțional)
 
-Dă un restart. La urma urmei, e Windows.
+S-ar putea ca înainte de a trece la pasul 3 să fie necesar un restart. La urma urmei, e Windows.
 
 ### Pasul 3
 
